@@ -1,0 +1,64 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ssets/
+bin/
+obj/
+[Ll]og/
+.vscode/
+.vscode-test/
+.vs/
+.env
+node_modules/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# OSX
+.DS_Store
+
+# Include IDbConnection configuration
+.env
+
+# Add more here if necessary
+
+# Ignore appsettings local files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# Entity Framework migration history
+Migrations/
+
+# Rider project files
+.idea/
+.idea_modules/
+.idea/shelf/
+.idea/workspace.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Ignore temporary files
+*.temp
+*.tmp

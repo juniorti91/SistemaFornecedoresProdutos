@@ -69,3 +69,5 @@ C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\obj\Debug\net6.0\Forne
 C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\obj\Debug\net6.0\FornecedoresApi.genruntimeconfig.cache
 C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\obj\Debug\net6.0\ref\FornecedoresApi.dll
 C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApi\bin\Debug\net6.0\Sprache.dll

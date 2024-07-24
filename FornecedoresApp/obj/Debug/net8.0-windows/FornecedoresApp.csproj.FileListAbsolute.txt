@@ -1,0 +1,15 @@
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\bin\Debug\net8.0-windows\FornecedoresApp.exe
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\bin\Debug\net8.0-windows\FornecedoresApp.deps.json
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\bin\Debug\net8.0-windows\FornecedoresApp.runtimeconfig.json
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\bin\Debug\net8.0-windows\FornecedoresApp.dll
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\bin\Debug\net8.0-windows\FornecedoresApp.pdb
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.AssemblyInfoInputs.cache
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.AssemblyInfo.cs
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.csproj.CoreCompileInputs.cache
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.sourcelink.json
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.dll
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\refint\FornecedoresApp.dll
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.pdb
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\FornecedoresApp.genruntimeconfig.cache
+C:\Users\JuniorDev\Desktop\TesteGenialNet\FornecedoresApp\obj\Debug\net8.0-windows\ref\FornecedoresApp.dll

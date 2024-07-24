@@ -1,0 +1,114 @@
+*************************** Inserção na tabela de fornecedores *********************************************************
+
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Carlos', '12.345.678/0002-99', 'Rua Alfa', '88887777');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Maria', '12.345.678/0003-99', 'Rua Beta', '88886666');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('José', '12.345.678/0004-99', 'Rua Gama', '88885555');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Paulo', '12.345.678/0005-99', 'Rua Delta', '88884444');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Ana', '12.345.678/0006-99', 'Rua Épsilon', '88883333');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Beatriz', '12.345.678/0007-99', 'Rua Zeta', '88882222');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Carlos', '12.345.678/0008-99', 'Rua Eta', '88881111');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Juliana', '12.345.678/0009-99', 'Rua Teta', '88880000');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Ricardo', '12.345.678/0010-99', 'Rua Iota', '88889999');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Gabriel', '12.345.678/0011-99', 'Rua Kappa', '88887778');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Fernanda', '12.345.678/0012-99', 'Rua Lambda', '88886667');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Patrícia', '12.345.678/0013-99', 'Rua Mu', '88885556');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Roberto', '12.345.678/0014-99', 'Rua Nu', '88884445');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Mariana', '12.345.678/0015-99', 'Rua Xi', '88883334');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Alexandre', '12.345.678/0016-99', 'Rua Omicron', '88882223');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Lucas', '12.345.678/0017-99', 'Rua Pi', '88881112');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Amanda', '12.345.678/0018-99', 'Rua Rho', '88880001');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Felipe', '12.345.678/0019-99', 'Rua Sigma', '88889998');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Sabrina', '12.345.678/0020-99', 'Rua Tau', '88887779');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Rafael', '12.345.678/0021-99', 'Rua Upsilon', '88886668');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Larissa', '12.345.678/0022-99', 'Rua Phi', '88885557');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Gustavo', '12.345.678/0023-99', 'Rua Chi', '88884446');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Livia', '12.345.678/0024-99', 'Rua Psi', '88883335');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Thiago', '12.345.678/0025-99', 'Rua Omega', '88882224');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Vanessa', '12.345.678/0026-99', 'Rua Alfa2', '88881113');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Bruno', '12.345.678/0027-99', 'Rua Beta2', '88880002');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Simone', '12.345.678/0028-99', 'Rua Gama2', '88889997');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Matheus', '12.345.678/0029-99', 'Rua Delta2', '88887770');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Letícia', '12.345.678/0030-99', 'Rua Épsilon2', '88886669');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Renato', '12.345.678/0031-99', 'Rua Zeta2', '88885558');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Tatiana', '12.345.678/0032-99', 'Rua Eta2', '88884447');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Rodrigo', '12.345.678/0033-99', 'Rua Teta2', '88883336');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('Isabela', '12.345.678/0034-99', 'Rua Iota2', '88882225');
+INSERT INTO Fornecedores (Nome, Cnpj, Endereco, Telefone) VALUES ('César', '12.345.678/0035-99', 'Rua Kappa2', '88881114');
+
+
+*************************** Inserção na tabela de produtos *********************************************************
+
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Cimento', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Areia', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Brita', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Tijolo', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Bloco de Concreto', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Telha', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Madeira', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Aço', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Arame', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Prego', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Parafuso', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Porca', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Arruela', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Cano PVC', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Conector PVC', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Fita Isolante', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Cabo Elétrico', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Interruptor', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Tomada', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Ducha', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Torneira', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Válvula de Descarga', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Ladrilho', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Azulejo', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Porta', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Janela', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Trinco', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Dobradiça', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Fechadura', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Ralo', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Chuveiro', 0);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Caixa Dágua', 1);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Mangueira', 2);
+INSERT INTO Produtos (Descricao, UnidadeDeMedida) VALUES ('Broxa de Pintura', 0)
+
+
+*************************** Relacionando Fornecedores e Produtos na tabela ProdutoFornecedores *********************************************************
+
+-- Relacionando Fornecedores e Produtos na tabela ProdutoFornecedores
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (1, 1, 50.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (2, 2, 40.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (3, 3, 30.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (4, 4, 20.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (5, 5, 10.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (6, 6, 15.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (7, 7, 25.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (8, 8, 35.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (9, 9, 45.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (10, 10, 55.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (11, 11, 65.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (12, 12, 75.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (13, 13, 85.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (14, 14, 95.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (15, 15, 105.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (16, 16, 115.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (17, 17, 125.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (18, 18, 135.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (19, 19, 145.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (20, 20, 155.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (21, 21, 165.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (22, 22, 175.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (23, 23, 185.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (24, 24, 195.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (25, 25, 205.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (26, 26, 215.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (27, 27, 225.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (28, 28, 235.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (29, 29, 245.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (30, 30, 255.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (31, 31, 265.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (32, 32, 275.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (33, 33, 285.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (34, 34, 295.00);
+INSERT INTO ProdutoFornecedores (ProdutoId, FornecedorId, ValorCompra) VALUES (35, 35, 305.00);
