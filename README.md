@@ -36,27 +36,27 @@ O projeto consiste em duas partes principais:
 
 - Fornecedores
 
-    GET /api/Fornecedores: Retorna todos os fornecedores.
-    GET /api/Fornecedores/{id}: Retorna um fornecedor por ID.
-    POST /api/Fornecedores: Adiciona um novo fornecedor.
-    PUT /api/Fornecedores/{id}: Atualiza um fornecedor existente.
-    DELETE /api/Fornecedores/{id}: Remove um fornecedor por ID.
+    * GET /api/Fornecedores: Retorna todos os fornecedores.
+    * GET /api/Fornecedores/{id}: Retorna um fornecedor por ID.
+    * POST /api/Fornecedores: Adiciona um novo fornecedor.
+    * PUT /api/Fornecedores/{id}: Atualiza um fornecedor existente.
+    * DELETE /api/Fornecedores/{id}: Remove um fornecedor por ID.
 
 - Produtos
 
-    GET /api/Produtos: Retorna todos os produtos.
-    GET /api/Produtos/{id}: Retorna um produto por ID.
-    POST /api/Produtos: Adiciona um novo produto.
-    PUT /api/Produtos/{id}: Atualiza um produto existente.
-    DELETE /api/Produtos/{id}: Remove um produto por ID.
+    * GET /api/Produtos: Retorna todos os produtos.
+    * GET /api/Produtos/{id}: Retorna um produto por ID.
+    * POST /api/Produtos: Adiciona um novo produto.
+    * PUT /api/Produtos/{id}: Atualiza um produto existente.
+    * DELETE /api/Produtos/{id}: Remove um produto por ID.
 
 - ProdutoFornecedores
 
-    GET /api/ProdutoFornecedores: Retorna todas as relações entre produtos e fornecedores.
-    GET /api/ProdutoFornecedores/{id}: Retorna uma relação por ID.
-    POST /api/ProdutoFornecedores: Adiciona uma nova relação.
-    PUT /api/ProdutoFornecedores/{id}: Atualiza uma relação existente.
-    DELETE /api/ProdutoFornecedores/{id}: Remove uma relação por ID.
+    * GET /api/ProdutoFornecedores: Retorna todas as relações entre produtos e fornecedores.
+    * GET /api/ProdutoFornecedores/{id}: Retorna uma relação por ID.
+    * POST /api/ProdutoFornecedores: Adiciona uma nova relação.
+    * PUT /api/ProdutoFornecedores/{id}: Atualiza uma relação existente.
+    * DELETE /api/ProdutoFornecedores/{id}: Remove uma relação por ID.
 
 3.3 Configuração do Banco de Dados
 
